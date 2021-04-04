@@ -1,0 +1,2 @@
+# Instacart-Market-Basket-Analysis
+This is a repository for Instacart Market Basket Analysis. It consists of data cleaning, exploratory data analysis,data visualization and machine learning algorithms developed for the project. Market Basket Analysis is a modeling technique based upon the theory that if you buy a certain group of items, you are more (or less) likely to buy another group of items. In this analysis, a forecasting model is developed using machine learning algorithms to improve the accurate forecasts of product sales.
